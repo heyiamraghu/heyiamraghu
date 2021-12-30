@@ -4,6 +4,6 @@
 
 :point_right: I am a Client Manager - Customer Success at Deloitte Digital
 
-:point_right: I am a tech-savvy and I am big on do-it-yourself - I've designed and developed a few solutions that solves real problems. 
+:point_right: I love learning new Apple stuff and I am big on do-it-yourself - I've designed and developed a few solutions that solve real problems. 
 
-:point_right: I am an Apple fanboy. Out of my personal interest, I am also learning **Swift** and **iOS** on the side.
+:point_right: I am learning **Swift** and **iOS** on the side.
