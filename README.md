@@ -6,4 +6,4 @@
 
 :point_right: I love learning new Apple stuff and I am big on do-it-yourself - I've designed and developed a few solutions that solve real problems. 
 
-:point_right: I am learning **Swift** and **iOS** on the side.
+:point_right: I am learning to program apps on the side.
