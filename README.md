@@ -4,6 +4,6 @@
 
 :point_right: I am a Client Manager - Customer Success at Deloitte Digital. I help my enterprise clients achieve success using our suite of SaaS apps.
 
-:point_right: I love learning new Apple stuff and I am big on do-it-yourself - I've designed and developed a few solutions that solve real problems. 
+:point_right: I love learning new Apple stuff and I am a big fan of do-it-yourself - I've designed and developed a few solutions that solve real problems. 
 
-:point_right: I am learning to program in Java & Spring. Hopefully I will develop some useful apps on the side.
+:point_right: I am learning to program in Java & Spring. Hopefully I will develop some useful apps.
